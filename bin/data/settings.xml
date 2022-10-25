@@ -1,0 +1,18 @@
+<settings>
+    <commandsPort>12347</commandsPort>
+    <hearbeatPort>12348</hearbeatPort>
+    <hearbeatHost>localhost</hearbeatHost>
+    <appResolutionX>1920</appResolutionX>
+    <appResolutionY>1080</appResolutionY>
+    <viewResolutionX>1024</viewResolutionX>
+    <viewResolutionY>1024</viewResolutionY>
+    <contentResolutionX>1024</contentResolutionX>
+    <contentResolutionY>1024</contentResolutionY>
+    <viewMinX>73</viewMinX>
+    <viewMinY>78</viewMinY>
+    <viewScaleH>0.634999633</viewScaleH>
+    <viewScaleV>0.634999633</viewScaleV>
+    <viewBlankH>2</viewBlankH>
+    <viewBlankV>2</viewBlankV>
+    <fullscreen>0</fullscreen>
+</settings>
