@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio Files
+/.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Generated files
+/obj/
+*.exp
+*.pdb
+
