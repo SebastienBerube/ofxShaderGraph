@@ -9,11 +9,10 @@ See:
 - https://derivative.ca/UserGuide/TOP
 - https://substance3d.adobe.com/documentation/sddoc/slope-blur-159450467.html
 
-This app is very limited, and the original purpose was to create a simple shader interface for an interactive museum exhibition.
-The following *Abstrak* project was based on this ofxShaderGraph app: https://en.4elements.media/case-studies/abstrak
+This app is very limited, and the original purpose was to create a simple shader interface which was used in its turn to implement the visuals for an interactive museum exhibition. The following *Abstrak* project was based on this ofxShaderGraph app: https://en.4elements.media/case-studies/abstrak
 
 One interesting texture processing concept implemented in this application is the Slope Blur.
-The Slope Blur can be used to "chip" an height map to add interesting details, for example. This process is demonstrated in the first animated gif.
+The Slope Blur can be used to "chip" an height map to add interesting details, for example. This process is demonstrated in the animated gif on top of page.
 
 ### How to build and run
 - Download install OpenFrameworks: https://openframeworks.cc/download/
@@ -23,7 +22,7 @@ The Slope Blur can be used to "chip" an height map to add interesting details, f
 - Compile and run ofxShaderGraph in Visual Studio or in another IDE compatible with OF
 
 
-Below, some example code showing how to add and link shader nodes
+Below, some example code showing how to add and link shader nodes.
 -------------
 ```
     void setup(const params& parameters, const appState& aState)
