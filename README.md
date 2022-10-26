@@ -3,7 +3,7 @@ ofxShaderGraph (2018, Open Frameworks app)
 
 ![gif](http://i.gyazo.com/0442dd6b215c5eb5e0afcdd6997d9d32.gif)
 
-*ofxShaderGraph* is an Open Framworks app that was implemented to quickly create a network of pixel shaders nodes by code.
+*ofxShaderGraph* is an Open Framworks app that was implemented as a simple API to quickly create a network of pixel shaders nodes by code.
 The concept is similar to Texture Operators in Touch Designer, or shader node graphs in Substance Painter.
 See:
 - https://derivative.ca/UserGuide/TOP
